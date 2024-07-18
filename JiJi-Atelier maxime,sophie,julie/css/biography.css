@@ -1,0 +1,54 @@
+
+
+ .about-me{
+        background-color: #628ef0;
+       text-align: left;
+       position: relative;
+       margin-left: 5%;
+      /* display: inline-block;
+       color: aliceblue;
+        width: 40vw;
+        margin-bottom: 40vw;
+        margin-left:25vw;
+        padding-left:2%*/
+
+  }
+
+.avenir{
+    background-color: #6362F0;
+   color: aliceblue;
+   border-radius: 5%;
+   margin-bottom: 5%;
+    margin-bottom:51%;
+    padding-bottom: 4%;
+}
+
+.info{
+    text-align: left;
+    position: relative;
+    padding-left: 2%;
+    background-color:#6362F0;
+    border-radius: 5%;
+    
+}
+    
+body{
+    background-color: #c7b2f0;
+}
+
+h1{
+    text-align:center ;
+    
+}
+h2{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+h4{
+    text-align: center;
+   
+}
+
+
+ 
